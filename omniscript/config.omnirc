@@ -1,0 +1,24 @@
+# FluxWork™ OmniScript Configuration
+# © 2024-2026 Jeffrey W Williams LLC. All Rights Reserved.
+
+[app]
+name = FluxWork
+version = 1.0.0
+ecosystem = Omnivex
+platform = OmniDLOS
+architecture = 4D-OS
+
+[engines]
+auto_connect = true
+fallback_mode = degraded_intelligence
+circular_resolution = lazy_initialization
+
+[context]
+context_aware = true
+friction_gated = true
+subscribe_all_dimensions = true
+
+[security]
+classification = CONFIDENTIAL
+ip_protection = ENABLED
+trade_secret = true

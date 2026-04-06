@@ -1,0 +1,26 @@
+{
+  "app": "FluxWork",
+  "version": "1.0.0",
+  "ecosystem": "Omnivex",
+  "platform": "OmniDLOS",
+  "architecture": "4D-OS",
+  "classification": "CONFIDENTIAL — PROPRIETARY — TRADE SECRET",
+  "copyright": "© 2024-2026 Jeffrey W Williams LLC. All Rights Reserved.",
+  "omniscript_version": "1.0.0",
+  "entry_point": "main.omni",
+  "files": [
+    "main.omni",
+    "engines.omni",
+    "services.omni",
+    "config.omnirc"
+  ],
+  "engines": [
+  "HabitGenome",
+  "FrictionMap",
+  "ResonanceField",
+  "MomentumLattice",
+  "ContextWeave",
+  "EmotionDNA",
+  "ChromaFeel",
+  ]
+}

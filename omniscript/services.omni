@@ -1,0 +1,51 @@
+// CONFIDENTIAL — PROPRIETARY — TRADE SECRET
+// © 2024-2026 Jeffrey W Williams LLC. All Rights Reserved.
+//
+// FluxWork™ — Service Declarations
+// OmniScript™ Service Specifications
+
+@app FluxWork
+@version 1.0.0
+
+// ============================================================
+// SERVICE DECLARATIONS
+// ============================================================
+
+service FluxWorkCore {
+  @type PRIMARY
+  @domain "Gig Economy"
+  @protocol REST
+  @auth OAuth2 + JWT
+  
+  endpoints {
+    health: GET /api/health
+    status: GET /api/status
+    metrics: GET /api/metrics
+  }
+}
+
+service FluxWorkIntelligence {
+  @type INTELLIGENCE
+  @domain "Gig Economy"
+  @protocol WebSocket
+  @auth JWT
+  
+  channels {
+    recommendations: /ws/recommendations
+    alerts: /ws/alerts
+    insights: /ws/insights
+  }
+}
+
+service FluxWorkDataPipeline {
+  @type DATA
+  @domain "Gig Economy"
+  @protocol gRPC
+  @auth mTLS
+  
+  operations {
+    ingest: IngestTelemetry
+    transform: TransformBehavior
+    propagate: PropagateIntelligence
+  }
+}

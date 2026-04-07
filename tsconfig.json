@@ -1,0 +1,17 @@
+# © 2024-2026 Jeffrey W Williams LLC. All Rights Reserved. Proprietary.
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist/client",
+    "rootDir": "client/src",
+    "paths": {
+      "@shared/*": ["./shared/*"]
+    }
+  },
+  "include": ["client/src", "shared"]
+}

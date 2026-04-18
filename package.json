@@ -1,8 +1,8 @@
-# © 2024-2026 Jeffrey W Williams LLC. All Rights Reserved. Proprietary.
 {
   "name": "fluxwork",
   "version": "1.0.0",
-  "description": "Gig Economy Marketplace Platform \u2014 Omnivex Ecosystem",
+  "_copyright": "© 2024-2026 Jeffrey W Williams LLC. All Rights Reserved. Proprietary.",
+  "description": "Gig Economy Marketplace Platform — Omnivex Ecosystem",
   "private": true,
   "type": "module",
   "scripts": {

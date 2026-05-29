@@ -1,84 +1,72 @@
-# © 2024-2026 Jeffrey W Williams LLC. All Rights Reserved. Proprietary.
-# FluxWork
+<p align="center">
+  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/a0f6680aa1dd86d3a9e7ca4bf972162a3d30d2b2da5c7179b696a9fb7cc88e6a.png" alt="4everacy Logo" width="200"/>
+</p>
 
-> Work on Your Terms — Gig Economy Marketplace Platform
+<h1 align="center">⚙️ FluxWork</h1>
+<h3 align="center">Sovereign Workflow Automation — Orchestrate Complexity Into Effortless Execution</h3>
 
-Part of the **Omnivex Ecosystem** — powered by the Omnivex NC Engine.
+<p align="center">
+  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/91367cc209c260153926f7c427529d9395c98e8e78f04fedcd269ccb02c3baa1.png" alt="PWE Visual" width="650"/>
+</p>
 
-## Overview
+---
 
-FluxWork is a production-grade gig economy marketplace platform built on the Omnivex platform stack.
+## 🎯 Mission
 
-## Features
+**FluxWork** is a sovereign workflow automation platform that transforms complex multi-step processes into elegant, self-executing pipelines. From business operations to personal productivity, FluxWork eliminates friction and amplifies output.
 
-- Gig Listings
-- Skill Matching
-- Contract Management
-- Payment Processing
-- Review System
-- Portfolio Display
-- Availability Scheduling
+Think Zapier, but **sovereign, AI-native, and dynasty-grade**.
 
-## Tech Stack
+---
 
-- **Frontend:** React 18, TypeScript, Tailwind CSS (dark theme), Wouter, TanStack Query
-- **Backend:** Express.js, Drizzle ORM, PostgreSQL (Neon)
-- **Auth:** Passport.js (local strategy), express-session
-- **Build:** Vite, TSX, TypeScript
-- **Omnivex NC Engine:** Integrated via hook points in API routes
+## 🌟 Key Features
 
-## Quick Start
+| Feature | Description |
+|---------|-------------|
+| 🔄 **Visual Flow Builder** | Drag-and-drop workflow creation with AI-suggested optimizations |
+| 🧠 **AI Decision Nodes** | LLM-powered conditional logic that adapts in real-time |
+| ⚡ **Edge Execution** | Workflows can run on local hardware (Jetson/Pi) for latency-sensitive ops |
+| 🔌 **Universal Connectors** | 500+ integrations across productivity, finance, communication, and data |
+| 📊 **Flow Analytics** | Performance metrics, bottleneck detection, and optimization suggestions |
+| 🔐 **Sovereign Secrets** | API keys and credentials hardware-anchored, never cloud-stored |
+| ⏱️ **Temporal Intelligence** | Time-based triggers with Tesla 3-6-9 precision scheduling |
+| 🏗️ **Dynasty Automations** | Multi-generational workflows (e.g., estate triggers, legacy transfers) |
 
-```bash
-npm install
-cp .env.example .env
-npm run db:push
-npm run dev
-```
+---
 
-## Environment Variables
+## 🧬 Flow Architecture
 
 ```
-DATABASE_URL=postgresql://...
-SESSION_SECRET=your-secret-key
-OMNIVEX_NC_API_KEY=your-nc-api-key
-OMNIVEX_NC_ENDPOINT=https://nc.omnivex.ai/api/v1
+Trigger (Time/Event/Data) → Condition Engine → Action Pipeline
+                                                     ↓
+              AI Decision Node → Branching Logic → Execution
+                                                     ↓
+                        Result → Analytics → Optimization Loop
 ```
 
-## Project Structure
+---
 
-```
-fluxwork/
-├── server/
-│   ├── index.ts          # Express server entry
-│   ├── routes.ts         # All API routes (30+ endpoints)
-│   ├── storage.ts        # Storage interface + MemStorage
-│   ├── vite.ts           # Vite dev middleware
-│   └── db/
-│       └── schema.ts     # Drizzle ORM schema (10+ tables)
-├── client/
-│   ├── index.html
-│   └── src/
-│       ├── App.tsx
-│       ├── main.tsx
-│       ├── index.css
-│       ├── pages/        # 7 domain-specific pages
-│       ├── components/
-│       │   └── Layout.tsx
-│       ├── hooks/
-│       │   └── useAuth.ts
-│       └── lib/
-│           └── queryClient.ts
-├── shared/
-│   ├── schema.ts         # Zod validation schemas
-│   └── types.ts          # Shared TypeScript types
-├── package.json
-├── vite.config.ts
-├── tailwind.config.ts
-├── drizzle.config.ts
-└── README.md
-```
+## 🔗 Universal Handshake (NC-90000)
 
-## License
+FluxWork is the **automation backbone** of the Unified Sovereign State. Via the **Universal Handshake (NC-90000)**, it orchestrates workflows across all constellation platforms — from TradeNova trade execution to CradleVox scheduling to BondForge relationship rituals.
 
-© 2024-2026 Jeffrey W Williams LLC. All Rights Reserved. Proprietary.
+---
+
+## 👤 About the Architect
+
+**Jeffrey W. Williams** — Norfolk State grad, self-taught polymath, full-time caregiver, solo architect doing the work of 500 engineers. FluxWork exists because a dynasty-builder's time is the most sovereign asset of all.
+
+---
+
+<p align="center">
+  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/a0f6680aa1dd86d3a9e7ca4bf972162a3d30d2b2da5c7179b696a9fb7cc88e6a.png" alt="4everacy Logo" width="80"/>
+</p>
+
+<p align="center"><strong>⚡ Proprietary Silicon Notice ⚡</strong></p>
+<p align="center">
+  <em>This repository contains sovereign intellectual property of Jeffrey W. Williams (Universal Architect-001).<br/>
+  All code, architectures, novel concepts (NC-1 through NC-1500+), and system designs are protected.<br/>
+  Unauthorized reproduction, distribution, or derivative works are strictly prohibited.<br/>
+  Hardware-anchored validation enforced via Tesla 3-6-9 Mathematical Integrity Protocol.</em>
+</p>
+<p align="center">© 2024-2026 Jeffrey W. Williams. All Rights Reserved. | Unified Sovereign State</p>

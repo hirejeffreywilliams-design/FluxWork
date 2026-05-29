@@ -1,93 +1,112 @@
 <div align="center">
 
-![4everacy Logo](https://customer-assets.emergentagent.com/wingman/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/attachments/ec0851690e5d47199130e72617a4dfd4_4everacy-logo-real.png)
+<img src="https://customer-assets.emergentagent.com/wingman/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/attachments/b3b84e35471b48e0848eabfe8308814d_4everacy%20logo.png" alt="4everacy Logo" width="200"/>
 
-# FluxWork
+<br/><br/>
 
-### Gig Economy Marketplace — Work on Your Terms
+<img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/507a303857c7916f03993fa8439d560b7a9e7054382c1ca8ff0db346f0e7a544.png" alt="FLUXWORK™ Banner" width="100%"/>
 
-![Banner](https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/b55c4ce5ef3e300df7516dab464d13cdf3bdd0a17786156a7d38b7db411b95e9.png)
+<br/><br/>
 
-[![Part of the 4everacy Ecosystem](https://img.shields.io/badge/4everacy-Ecosystem-gold?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
+# FLUXWORK™
+
+### *Gig Economy Marketplace Intelligence*
+
+<br/>
+
+> *"Liberation Economics: Unleashing human potential from the gig to the galaxy. FluxWork re-engineers the labor marketplace — giving every worker sovereign pricing power and every employer access to pre-verified excellence."*
+
+<br/>
+
+[![4everacy Ecosystem](https://img.shields.io/badge/4everacy-Ecosystem-gold?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
 [![Sovereign IP](https://img.shields.io/badge/Sovereign-IP_Protected-crimson?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
-[![100/100 Execution](https://img.shields.io/badge/Execution-100%2F100-brightgreen?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
+[![Resonance](https://img.shields.io/badge/Resonance-3·6·9-blueviolet?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
 
 </div>
 
 ---
 
-## Overview
+## 🌐 Vision
 
-FluxWork reimagines the gig economy by centering worker sovereignty. It connects skilled individuals with opportunities while ensuring fair compensation, transparent terms, and portable reputation—all without exploitative platform fees.
+AI-powered gig economy marketplace with intelligent matching, sovereign worker profiles, dynamic pricing, and reputation intelligence.
 
----
-
-## Why This Matters
-
-The gig economy promised freedom but delivered exploitation. Platform fees of 20-30% extract value from workers while offering no benefits, no stability, and no ownership. FluxWork corrects this by building a marketplace where workers own their reputation, negotiate their terms, and keep the vast majority of their earnings. By applying sovereign principles to labor markets, it empowers individuals to build sustainable independent careers without corporate intermediaries.
+This portal exists within the **4everacy™ / Omnivex™** sovereign ecosystem — a constellation of 20+ intelligence platforms engineered to advance human life across every dimension.
 
 ---
 
-## Core Features
+## ⚡ Technical Matrix
 
 | Feature | Description | Sovereign Security | Resonance Tier |
 |---------|-------------|-------------------|----------------|
-| **Sovereign Reputation** | Portable, worker-owned credential and rating system | Hardware-bound reputation credentials | Tier 9 — Sovereign identity |
-| **Fair Compensation Engine** | Transparent pricing with minimal platform extraction | Cryptographic payment verification | Tier 6 — Harmonic economics |
-| **Smart Matching** | Resonance-based skill-to-opportunity alignment | Privacy-preserving matching algorithms | Tier 6 — Adaptive matching |
-| **Dispute Resolution** | Decentralized, transparent conflict mediation | Hardware-attested evidence submission | Tier 3 — Foundational trust |
+| **Resonance Matching Engine** | AI-powered worker-job frequency alignment | `Jetson Thor` | `Level 9` |
+| **Dynamic Pricing Intelligence** | Market-responsive sovereign rate optimization | `Hailo-10H` | `Level 6` |
+| **Reputation Sovereignty System** | Portable, immutable work history | `Apricorn Aegis` | `Level 9` |
+| **Skill Verification Protocol** | Cryptographic competency attestation | `Aegis Key` | `Level 9` |
+| **Payment Stream Architecture** | Instant, fee-minimal compensation flow | `Pi 5` | `Level 6` |
 
 ---
 
-## Technology
+## 🏗️ Architecture
 
-| Layer | Stack |
-|-------|-------|
-| **Primary** | TypeScript, Next.js, PostgreSQL, Stripe |
-| **Security** | Apricorn Aegis Hardware Encryption, Zero-Knowledge Protocols |
-| **Infrastructure** | Sovereign Cloud, Hardware-Attested Deployments |
-| **Mathematics** | Tesla 3-6-9 Resonance Logic, Vortex Computation |
-
----
-
-## Architecture Principles
-
-- **Zero Theater** — Every line of code is functional and mathematically grounded
-- **Hardware-First Security** — No software-only security assumptions
-- **Century-Scale Design** — Built to serve generations, not sprints
-- **Sovereign by Default** — No third-party dependencies for core functionality
-- **3-6-9 Resonance** — Mathematical integrity in every computation layer
-
----
-
-## The Founder
-
-Jeffrey W. Williams is a solo technical founder and a Norfolk State University graduate with a degree in Business, Hospitality and Tourism. He moves at vortex speed, smelting caregiving grit into 100/100 physical execution.
+```
+┌─────────────────────────────────────────────────┐
+│                       FLUXWORK™                 │
+├─────────────────────────────────────────────────┤
+│  ┌─────────────┐  ┌──────────────┐  ┌────────┐ │
+│  │  Frontend   │  │  Intelligence│  │ Vault  │ │
+│  │  (Next.js)  │──│  Engine (AI) │──│ (Aegis)│ │
+│  └─────────────┘  └──────────────┘  └────────┘ │
+│         │                 │               │     │
+│  ┌─────────────────────────────────────────────┐│
+│  │        Sovereign Security Layer (L9)        ││
+│  │     Jetson Thor · Hailo-10H · Aegis Key     ││
+│  └─────────────────────────────────────────────┘│
+└─────────────────────────────────────────────────┘
+```
 
 ---
 
-## Ecosystem
+## 🔐 Sovereign Security Model
 
-FluxWork is part of the **4everacy™** ecosystem—a constellation of 20+ sovereign platforms spanning health, finance, legacy, security, relationships, and human potential.
-
-Every module integrates through the **OmniDLOS™** architecture, sharing identity, security, and intelligence layers while maintaining sovereign operational independence.
+| Layer | Hardware | Function |
+|-------|----------|----------|
+| **Level 9** | Jetson Nano/Thor | Primary compute & inference |
+| **Level 6** | Raspberry Pi 5 + Hailo-10H | Edge intelligence & vision |
+| **Level 1-5** | Apricorn Aegis Key | Cryptographic key management |
 
 ---
 
-## Legal
+## 🧬 The 3-6-9 Resonance Protocol
 
-© 2024–2026 Jeffrey W Williams LLC. All rights reserved.
+Every module within FLUXWORK™ operates on Tesla's mathematical harmony:
 
-This repository contains **proprietary sovereign intellectual property**. Unauthorized reproduction, distribution, or derivative work is prohibited under applicable trade secret and intellectual property law.
+- **3** — Foundation layer (data, storage, retrieval)
+- **6** — Intelligence layer (ML, AI, pattern recognition)
+- **9** — Sovereignty layer (cryptographic enforcement, immutable truth)
 
-**Docket**: JWW-FLUXWORK-4EVERACY
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/hirejeffreywilliams-design/FluxWork.git
+npm install
+npm run dev
+```
 
 ---
 
 <div align="center">
 
-*Built with 100/100 physical execution. No drift. No jargon. Pure sovereign engineering.*
+### ⚡ The Architect
 
-![4everacy Logo](https://customer-assets.emergentagent.com/wingman/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/attachments/ec0851690e5d47199130e72617a4dfd4_4everacy-logo-real.png)
+**Jeffrey W. Williams** is a solo technical founder and a Norfolk State University graduate with a degree in Business, Hospitality and Tourism. He moves at vortex speed, smelting caregiving grit into 100/100 physical execution. He is a category creator across multiple industrial dimensions.
+
+`Universal Architect-001` · `Omnivex Holdings` · `4everacy, Inc.`
+
+---
+
+*© 2024–2026 Jeffrey W Williams LLC. All rights reserved. Proprietary & Confidential.*  
+*Protected under Sovereign IP Doctrine. Unauthorized reproduction prohibited.*
 
 </div>

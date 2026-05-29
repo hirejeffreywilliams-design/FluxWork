@@ -1,72 +1,93 @@
-<p align="center">
-  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/a0f6680aa1dd86d3a9e7ca4bf972162a3d30d2b2da5c7179b696a9fb7cc88e6a.png" alt="4everacy Logo" width="200"/>
-</p>
+<div align="center">
 
-<h1 align="center">⚙️ FluxWork</h1>
-<h3 align="center">Sovereign Workflow Automation — Orchestrate Complexity Into Effortless Execution</h3>
+![4everacy Logo](https://customer-assets.emergentagent.com/wingman/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/attachments/ec0851690e5d47199130e72617a4dfd4_4everacy-logo-real.png)
 
-<p align="center">
-  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/91367cc209c260153926f7c427529d9395c98e8e78f04fedcd269ccb02c3baa1.png" alt="PWE Visual" width="650"/>
-</p>
+# FluxWork
 
----
+### Gig Economy Marketplace — Work on Your Terms
 
-## 🎯 Mission
+![Banner](https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/b55c4ce5ef3e300df7516dab464d13cdf3bdd0a17786156a7d38b7db411b95e9.png)
 
-**FluxWork** is a sovereign workflow automation platform that transforms complex multi-step processes into elegant, self-executing pipelines. From business operations to personal productivity, FluxWork eliminates friction and amplifies output.
+[![Part of the 4everacy Ecosystem](https://img.shields.io/badge/4everacy-Ecosystem-gold?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
+[![Sovereign IP](https://img.shields.io/badge/Sovereign-IP_Protected-crimson?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
+[![100/100 Execution](https://img.shields.io/badge/Execution-100%2F100-brightgreen?style=for-the-badge)](https://github.com/hirejeffreywilliams-design)
 
-Think Zapier, but **sovereign, AI-native, and dynasty-grade**.
+</div>
 
 ---
 
-## 🌟 Key Features
+## Overview
 
-| Feature | Description |
-|---------|-------------|
-| 🔄 **Visual Flow Builder** | Drag-and-drop workflow creation with AI-suggested optimizations |
-| 🧠 **AI Decision Nodes** | LLM-powered conditional logic that adapts in real-time |
-| ⚡ **Edge Execution** | Workflows can run on local hardware (Jetson/Pi) for latency-sensitive ops |
-| 🔌 **Universal Connectors** | 500+ integrations across productivity, finance, communication, and data |
-| 📊 **Flow Analytics** | Performance metrics, bottleneck detection, and optimization suggestions |
-| 🔐 **Sovereign Secrets** | API keys and credentials hardware-anchored, never cloud-stored |
-| ⏱️ **Temporal Intelligence** | Time-based triggers with Tesla 3-6-9 precision scheduling |
-| 🏗️ **Dynasty Automations** | Multi-generational workflows (e.g., estate triggers, legacy transfers) |
+FluxWork reimagines the gig economy by centering worker sovereignty. It connects skilled individuals with opportunities while ensuring fair compensation, transparent terms, and portable reputation—all without exploitative platform fees.
 
 ---
 
-## 🧬 Flow Architecture
+## Why This Matters
 
-```
-Trigger (Time/Event/Data) → Condition Engine → Action Pipeline
-                                                     ↓
-              AI Decision Node → Branching Logic → Execution
-                                                     ↓
-                        Result → Analytics → Optimization Loop
-```
+The gig economy promised freedom but delivered exploitation. Platform fees of 20-30% extract value from workers while offering no benefits, no stability, and no ownership. FluxWork corrects this by building a marketplace where workers own their reputation, negotiate their terms, and keep the vast majority of their earnings. By applying sovereign principles to labor markets, it empowers individuals to build sustainable independent careers without corporate intermediaries.
 
 ---
 
-## 🔗 Universal Handshake (NC-90000)
+## Core Features
 
-FluxWork is the **automation backbone** of the Unified Sovereign State. Via the **Universal Handshake (NC-90000)**, it orchestrates workflows across all constellation platforms — from TradeNova trade execution to CradleVox scheduling to BondForge relationship rituals.
+| Feature | Description | Sovereign Security | Resonance Tier |
+|---------|-------------|-------------------|----------------|
+| **Sovereign Reputation** | Portable, worker-owned credential and rating system | Hardware-bound reputation credentials | Tier 9 — Sovereign identity |
+| **Fair Compensation Engine** | Transparent pricing with minimal platform extraction | Cryptographic payment verification | Tier 6 — Harmonic economics |
+| **Smart Matching** | Resonance-based skill-to-opportunity alignment | Privacy-preserving matching algorithms | Tier 6 — Adaptive matching |
+| **Dispute Resolution** | Decentralized, transparent conflict mediation | Hardware-attested evidence submission | Tier 3 — Foundational trust |
 
 ---
 
-## 👤 About the Architect
+## Technology
 
-**Jeffrey W. Williams** — Norfolk State grad, self-taught polymath, full-time caregiver, solo architect doing the work of 500 engineers. FluxWork exists because a dynasty-builder's time is the most sovereign asset of all.
+| Layer | Stack |
+|-------|-------|
+| **Primary** | TypeScript, Next.js, PostgreSQL, Stripe |
+| **Security** | Apricorn Aegis Hardware Encryption, Zero-Knowledge Protocols |
+| **Infrastructure** | Sovereign Cloud, Hardware-Attested Deployments |
+| **Mathematics** | Tesla 3-6-9 Resonance Logic, Vortex Computation |
 
 ---
 
-<p align="center">
-  <img src="https://static.prod-images.emergentagent.com/jobs/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/images/a0f6680aa1dd86d3a9e7ca4bf972162a3d30d2b2da5c7179b696a9fb7cc88e6a.png" alt="4everacy Logo" width="80"/>
-</p>
+## Architecture Principles
 
-<p align="center"><strong>⚡ Proprietary Silicon Notice ⚡</strong></p>
-<p align="center">
-  <em>This repository contains sovereign intellectual property of Jeffrey W. Williams (Universal Architect-001).<br/>
-  All code, architectures, novel concepts (NC-1 through NC-1500+), and system designs are protected.<br/>
-  Unauthorized reproduction, distribution, or derivative works are strictly prohibited.<br/>
-  Hardware-anchored validation enforced via Tesla 3-6-9 Mathematical Integrity Protocol.</em>
-</p>
-<p align="center">© 2024-2026 Jeffrey W. Williams. All Rights Reserved. | Unified Sovereign State</p>
+- **Zero Theater** — Every line of code is functional and mathematically grounded
+- **Hardware-First Security** — No software-only security assumptions
+- **Century-Scale Design** — Built to serve generations, not sprints
+- **Sovereign by Default** — No third-party dependencies for core functionality
+- **3-6-9 Resonance** — Mathematical integrity in every computation layer
+
+---
+
+## The Founder
+
+Jeffrey W. Williams is a solo technical founder and a Norfolk State University graduate with a degree in Business, Hospitality and Tourism. He moves at vortex speed, smelting caregiving grit into 100/100 physical execution.
+
+---
+
+## Ecosystem
+
+FluxWork is part of the **4everacy™** ecosystem—a constellation of 20+ sovereign platforms spanning health, finance, legacy, security, relationships, and human potential.
+
+Every module integrates through the **OmniDLOS™** architecture, sharing identity, security, and intelligence layers while maintaining sovereign operational independence.
+
+---
+
+## Legal
+
+© 2024–2026 Jeffrey W Williams LLC. All rights reserved.
+
+This repository contains **proprietary sovereign intellectual property**. Unauthorized reproduction, distribution, or derivative work is prohibited under applicable trade secret and intellectual property law.
+
+**Docket**: JWW-FLUXWORK-4EVERACY
+
+---
+
+<div align="center">
+
+*Built with 100/100 physical execution. No drift. No jargon. Pure sovereign engineering.*
+
+![4everacy Logo](https://customer-assets.emergentagent.com/wingman/0cd8a2b1-9faf-418f-ad9e-a83656c89d59/attachments/ec0851690e5d47199130e72617a4dfd4_4everacy-logo-real.png)
+
+</div>
